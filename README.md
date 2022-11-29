@@ -25,4 +25,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atnakayrus&show_icons=true&locale=en&layout=compact" alt="atnakayrus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atnakayrus&" alt="atnakayrus" /></p>
