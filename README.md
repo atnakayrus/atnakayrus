@@ -25,13 +25,13 @@
 <h3>My recent activities:</h3>
 <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus](https://github.com/atnakayrus/atnakayrus)<br>
+1. 📔 Created new repository [atnakayrus/C-programming-bootcamp](https://github.com/atnakayrus/C-programming-bootcamp)<br>
 2. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus](https://github.com/atnakayrus/atnakayrus)<br>
-3. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus](https://github.com/atnakayrus/atnakayrus)<br>
+3. ⭐ Starred [atnakayrus/EZAlternatives](https://github.com/atnakayrus/EZAlternatives)<br>
 4. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus](https://github.com/atnakayrus/atnakayrus)<br>
-5. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus](https://github.com/atnakayrus/atnakayrus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 19th, 2023, 2:11:24 PM
+Last Updated: Thursday, January 19th, 2023, 4:56:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
