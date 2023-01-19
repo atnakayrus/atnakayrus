@@ -22,8 +22,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/atnakayrus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atnakayrus" /></a></p><br><br>
-
-
+<h3>My recent activities:</h3>
+<br>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus](https://github.com/atnakayrus/atnakayrus)<br>
 2. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus](https://github.com/atnakayrus/atnakayrus)<br>
