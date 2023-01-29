@@ -27,11 +27,11 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/Wolfcrossy](https://github.com/Wolfcrossy/Wolfcrossy)<br>
 2. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/Wolfcrossy](https://github.com/Wolfcrossy/Wolfcrossy)<br>
-3. ⬆️ Pushed 1 commit(s) to [atnakayrus/ScoreBored](https://github.com/atnakayrus/ScoreBored)<br>
-4. ⬆️ Pushed 1 commit(s) to [atnakayrus/C-programming-bootcamp](https://github.com/atnakayrus/C-programming-bootcamp)<br>
-5. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus](https://github.com/atnakayrus/atnakayrus)<br>
+3. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/Wolfcrossy](https://github.com/Wolfcrossy/Wolfcrossy)<br>
+4. ⬆️ Pushed 1 commit(s) to [atnakayrus/ScoreBored](https://github.com/atnakayrus/ScoreBored)<br>
+5. ⬆️ Pushed 1 commit(s) to [atnakayrus/C-programming-bootcamp](https://github.com/atnakayrus/C-programming-bootcamp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 29th, 2023, 7:54:04 PM
+Last Updated: Sunday, January 29th, 2023, 8:06:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
