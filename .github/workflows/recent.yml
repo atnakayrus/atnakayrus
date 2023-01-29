@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment: Recent Activities
+    # environment: Recent Activities
     name: Update Profile README
 
     steps:
