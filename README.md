@@ -25,13 +25,13 @@
 <h3>My recent activities:</h3>
 <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/Wolfcrossy](https://github.com/Wolfcrossy/Wolfcrossy)<br>
+1. ⬆️ Pushed 2 commit(s) to [atnakayrus/atnakayrus](https://github.com/atnakayrus/atnakayrus)<br>
 2. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/Wolfcrossy](https://github.com/Wolfcrossy/Wolfcrossy)<br>
 3. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/Wolfcrossy](https://github.com/Wolfcrossy/Wolfcrossy)<br>
-4. ⬆️ Pushed 1 commit(s) to [atnakayrus/ScoreBored](https://github.com/atnakayrus/ScoreBored)<br>
-5. ⬆️ Pushed 1 commit(s) to [atnakayrus/C-programming-bootcamp](https://github.com/atnakayrus/C-programming-bootcamp)<br>
+4. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/Wolfcrossy](https://github.com/Wolfcrossy/Wolfcrossy)<br>
+5. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/Wolfcrossy](https://github.com/Wolfcrossy/Wolfcrossy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 29th, 2023, 8:06:16 PM
+Last Updated: Sunday, January 29th, 2023, 8:16:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
