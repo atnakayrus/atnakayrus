@@ -25,9 +25,9 @@
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [atnakayrus/freeCodeCamp](https://github.com/atnakayrus/freeCodeCamp)<br>
-2. ⬆️ Pushed 2 commit(s) to [atnakayrus/freeCodeCamp](https://github.com/atnakayrus/freeCodeCamp)<br>
-3. 💪 Opened PR [#49524](https://github.com/freeCodeCamp/freeCodeCamp/pull/49524) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br>
-4. ⬆️ Pushed 1 commit(s) to [atnakayrus/freeCodeCamp](https://github.com/atnakayrus/freeCodeCamp)<br>
-5. 🔱 Forked [atnakayrus/freeCodeCamp](https://github.com/atnakayrus/freeCodeCamp) from [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br>
+2. ⬆️ Pushed 1 commit(s) to [atnakayrus/freeCodeCamp](https://github.com/atnakayrus/freeCodeCamp)<br>
+3. ⬆️ Pushed 2 commit(s) to [atnakayrus/freeCodeCamp](https://github.com/atnakayrus/freeCodeCamp)<br>
+4. 💪 Opened PR [#49524](https://github.com/freeCodeCamp/freeCodeCamp/pull/49524) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br>
+5. ⬆️ Pushed 1 commit(s) to [atnakayrus/freeCodeCamp](https://github.com/atnakayrus/freeCodeCamp)<br>
 <!--RECENT_ACTIVITY:end-->
 
