@@ -24,10 +24,10 @@
 <p><a href="https://www.buymeacoffee.com/atnakayrus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atnakayrus" /></a></p><br><br>
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#49524](https://github.com/freeCodeCamp/freeCodeCamp/pull/49524) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br>
-2. ⬆️ Pushed 1 commit(s) to [atnakayrus/freeCodeCamp](https://github.com/atnakayrus/freeCodeCamp)<br>
-3. 🔱 Forked [atnakayrus/freeCodeCamp](https://github.com/atnakayrus/freeCodeCamp) from [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br>
-4. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [atnakayrus/freeCodeCamp](https://github.com/atnakayrus/freeCodeCamp)<br>
+2. ⬆️ Pushed 2 commit(s) to [atnakayrus/freeCodeCamp](https://github.com/atnakayrus/freeCodeCamp)<br>
+3. 💪 Opened PR [#49524](https://github.com/freeCodeCamp/freeCodeCamp/pull/49524) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br>
+4. ⬆️ Pushed 1 commit(s) to [atnakayrus/freeCodeCamp](https://github.com/atnakayrus/freeCodeCamp)<br>
+5. 🔱 Forked [atnakayrus/freeCodeCamp](https://github.com/atnakayrus/freeCodeCamp) from [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br>
 <!--RECENT_ACTIVITY:end-->
 
