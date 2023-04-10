@@ -27,7 +27,7 @@
 1. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
 2. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
 3. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
-4. 💪 Opened PR [#1](https://github.com/divyajyotibose/Cyfi/pull/1) in [divyajyotibose/Cyfi](https://github.com/divyajyotibose/Cyfi)<br>
-5. ⬆️ Pushed 1 commit(s) to [atnakayrus/Cyfi](https://github.com/atnakayrus/Cyfi)<br>
+4. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
+5. 💪 Opened PR [#1](https://github.com/divyajyotibose/Cyfi/pull/1) in [divyajyotibose/Cyfi](https://github.com/divyajyotibose/Cyfi)<br>
 <!--RECENT_ACTIVITY:end-->
 
