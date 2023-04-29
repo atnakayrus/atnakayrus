@@ -26,7 +26,7 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [atnakayrus/EZAlternatives](https://github.com/atnakayrus/EZAlternatives)<br>
 2. ⬆️ Pushed 1 commit(s) to [atnakayrus/EZAlternatives](https://github.com/atnakayrus/EZAlternatives)<br>
-3. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [atnakayrus/EZAlternatives](https://github.com/atnakayrus/EZAlternatives)<br>
 4. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
 5. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
