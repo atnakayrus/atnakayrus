@@ -24,10 +24,10 @@
 <p><a href="https://www.buymeacoffee.com/atnakayrus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atnakayrus" /></a></p><br><br>
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
-2. ⭐ Starred [atnakayrus/ScoreBored](https://github.com/atnakayrus/ScoreBored)<br>
-3. ⭐ Starred [atnakayrus/Flutter_video_player](https://github.com/atnakayrus/Flutter_video_player)<br>
-4. ⬆️ Pushed 1 commit(s) to [atnakayrus/ScoreBored](https://github.com/atnakayrus/ScoreBored)<br>
-5. ⬆️ Pushed 1 commit(s) to [atnakayrus/Flutter_video_player](https://github.com/atnakayrus/Flutter_video_player)<br>
+1. ⬆️ Pushed 1 commit(s) to [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
+2. 📔 Created new repository [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
+3. ⭐ Starred [atnakayrus/ScoreBored](https://github.com/atnakayrus/ScoreBored)<br>
+4. ⭐ Starred [atnakayrus/Flutter_video_player](https://github.com/atnakayrus/Flutter_video_player)<br>
+5. ⬆️ Pushed 1 commit(s) to [atnakayrus/ScoreBored](https://github.com/atnakayrus/ScoreBored)<br>
 <!--RECENT_ACTIVITY:end-->
 
