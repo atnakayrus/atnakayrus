@@ -24,10 +24,10 @@
 <p><a href="https://www.buymeacoffee.com/atnakayrus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atnakayrus" /></a></p><br><br>
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/atnakayrus/yt_ext/pull/1) in [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
-2. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
-4. 📔 Created new repository [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
-5. ⭐ Starred [atnakayrus/ScoreBored](https://github.com/atnakayrus/ScoreBored)<br>
+1. ⬆️ Pushed 3 commit(s) to [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
+2. 🎉 Merged PR [#2](https://github.com/atnakayrus/yt_ext/pull/2) in [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
+3. ❌ Closed PR [#1](https://github.com/atnakayrus/yt_ext/pull/1) in [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
+4. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
 <!--RECENT_ACTIVITY:end-->
 
