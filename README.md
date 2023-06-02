@@ -25,9 +25,9 @@
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [I-am-Octavian/RoboWars](https://github.com/I-am-Octavian/RoboWars)<br>
-2. ⬆️ Pushed 2 commit(s) to [I-am-Octavian/RoboWars](https://github.com/I-am-Octavian/RoboWars)<br>
-3. ⬆️ Pushed 3 commit(s) to [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
-4. 🎉 Merged PR [#2](https://github.com/atnakayrus/yt_ext/pull/2) in [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
-5. ❌ Closed PR [#1](https://github.com/atnakayrus/yt_ext/pull/1) in [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
+2. ⬆️ Pushed 1 commit(s) to [I-am-Octavian/RoboWars](https://github.com/I-am-Octavian/RoboWars)<br>
+3. ⬆️ Pushed 2 commit(s) to [I-am-Octavian/RoboWars](https://github.com/I-am-Octavian/RoboWars)<br>
+4. ⬆️ Pushed 3 commit(s) to [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
+5. 🎉 Merged PR [#2](https://github.com/atnakayrus/yt_ext/pull/2) in [atnakayrus/yt_ext](https://github.com/atnakayrus/yt_ext)<br>
 <!--RECENT_ACTIVITY:end-->
 
