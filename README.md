@@ -24,7 +24,7 @@
 <p><a href="https://www.buymeacoffee.com/atnakayrus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atnakayrus" /></a></p><br><br>
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [I-am-Octavian/RoboWars](https://github.com/I-am-Octavian/RoboWars)<br>
+1. ⬆️ Pushed 3 commit(s) to [I-am-Octavian/RoboWars](https://github.com/I-am-Octavian/RoboWars)<br>
 2. ⬆️ Pushed 1 commit(s) to [I-am-Octavian/RoboWars](https://github.com/I-am-Octavian/RoboWars)<br>
 3. ⬆️ Pushed 1 commit(s) to [I-am-Octavian/RoboWars](https://github.com/I-am-Octavian/RoboWars)<br>
 4. ⬆️ Pushed 1 commit(s) to [I-am-Octavian/RoboWars](https://github.com/I-am-Octavian/RoboWars)<br>
