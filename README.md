@@ -25,9 +25,9 @@
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [I-am-Octavian/RoboWars](https://github.com/I-am-Octavian/RoboWars)<br>
-3. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
-4. ⬆️ Pushed 1 commit(s) to [atnakayrus/minesweeper](https://github.com/atnakayrus/minesweeper)<br>
-5. 📔 Created new repository [atnakayrus/minesweeper](https://github.com/atnakayrus/minesweeper)<br>
+2. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus.github.io](https://github.com/atnakayrus/atnakayrus.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [I-am-Octavian/RoboWars](https://github.com/I-am-Octavian/RoboWars)<br>
+5. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
 <!--RECENT_ACTIVITY:end-->
 
