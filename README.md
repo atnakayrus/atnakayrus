@@ -24,10 +24,10 @@
 <p><a href="https://www.buymeacoffee.com/atnakayrus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atnakayrus" /></a></p><br><br>
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kishanrajput23/Awesome-Python-Projects](https://github.com/kishanrajput23/Awesome-Python-Projects)<br>
-2. ⬆️ Pushed 3 commit(s) to [atnakayrus/hacktober2023](https://github.com/atnakayrus/hacktober2023)<br>
-3. ⬆️ Pushed 1 commit(s) to [atnakayrus/hacktober2023](https://github.com/atnakayrus/hacktober2023)<br>
+1. ⭐ Starred [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)<br>
+2. ⭐ Starred [kishanrajput23/Awesome-Python-Projects](https://github.com/kishanrajput23/Awesome-Python-Projects)<br>
+3. ⬆️ Pushed 3 commit(s) to [atnakayrus/hacktober2023](https://github.com/atnakayrus/hacktober2023)<br>
 4. ⬆️ Pushed 1 commit(s) to [atnakayrus/hacktober2023](https://github.com/atnakayrus/hacktober2023)<br>
-5. 💪 Opened PR [#25](https://github.com/DSCRTUkota/hacktober2023/pull/25) in [DSCRTUkota/hacktober2023](https://github.com/DSCRTUkota/hacktober2023)<br>
+5. ⬆️ Pushed 1 commit(s) to [atnakayrus/hacktober2023](https://github.com/atnakayrus/hacktober2023)<br>
 <!--RECENT_ACTIVITY:end-->
 
