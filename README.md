@@ -25,9 +25,9 @@
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [atnakayrus/hacktober2023](https://github.com/atnakayrus/hacktober2023)<br>
-2. 💪 Opened PR [#25](https://github.com/DSCRTUkota/hacktober2023/pull/25) in [DSCRTUkota/hacktober2023](https://github.com/DSCRTUkota/hacktober2023)<br>
-3. ⬆️ Pushed 1 commit(s) to [atnakayrus/hacktober2023](https://github.com/atnakayrus/hacktober2023)<br>
-4. 🔱 Forked [atnakayrus/hacktober2023](https://github.com/atnakayrus/hacktober2023) from [DSCRTUkota/hacktober2023](https://github.com/DSCRTUkota/hacktober2023)<br>
-5. ⬆️ Pushed 2 commit(s) to [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+2. ⬆️ Pushed 1 commit(s) to [atnakayrus/hacktober2023](https://github.com/atnakayrus/hacktober2023)<br>
+3. 💪 Opened PR [#25](https://github.com/DSCRTUkota/hacktober2023/pull/25) in [DSCRTUkota/hacktober2023](https://github.com/DSCRTUkota/hacktober2023)<br>
+4. ⬆️ Pushed 1 commit(s) to [atnakayrus/hacktober2023](https://github.com/atnakayrus/hacktober2023)<br>
+5. 🔱 Forked [atnakayrus/hacktober2023](https://github.com/atnakayrus/hacktober2023) from [DSCRTUkota/hacktober2023](https://github.com/DSCRTUkota/hacktober2023)<br>
 <!--RECENT_ACTIVITY:end-->
 
