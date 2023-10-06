@@ -26,10 +26,10 @@
 <p><a href="https://www.buymeacoffee.com/atnakayrus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atnakayrus" /></a></p><br><br>
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus](https://github.com/atnakayrus/atnakayrus)<br>
-2. ⭐ Starred [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)<br>
-3. ⭐ Starred [kishanrajput23/Awesome-Python-Projects](https://github.com/kishanrajput23/Awesome-Python-Projects)<br>
-4. ⬆️ Pushed 3 commit(s) to [atnakayrus/hacktober2023](https://github.com/atnakayrus/hacktober2023)<br>
-5. ⬆️ Pushed 1 commit(s) to [atnakayrus/hacktober2023](https://github.com/atnakayrus/hacktober2023)<br>
+1. 🎉 Merged PR [#26](https://github.com/tushar-c23/hack-jnu-3-web/pull/26) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+2. ⬆️ Pushed 4 commit(s) to [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+3. ⬆️ Pushed 4 commit(s) to [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+4. 🎉 Merged PR [#25](https://github.com/tushar-c23/hack-jnu-3-web/pull/25) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+5. ⬆️ Pushed 1 commit(s) to [atnakayrus/atnakayrus](https://github.com/atnakayrus/atnakayrus)<br>
 <!--RECENT_ACTIVITY:end-->
 
