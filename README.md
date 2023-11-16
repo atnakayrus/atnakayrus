@@ -28,8 +28,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [atnakayrus/hack-jnu-3-web](https://github.com/atnakayrus/hack-jnu-3-web)<br>
 2. ⬆️ Pushed 1 commit(s) to [atnakayrus/hack-jnu-3-web](https://github.com/atnakayrus/hack-jnu-3-web)<br>
-3. ⬆️ Pushed 2 commit(s) to [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
-4. 🎉 Merged PR [#44](https://github.com/tushar-c23/hack-jnu-3-web/pull/44) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
-5. 💪 Opened PR [#44](https://github.com/tushar-c23/hack-jnu-3-web/pull/44) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+3. ⬆️ Pushed 1 commit(s) to [atnakayrus/hack-jnu-3-web](https://github.com/atnakayrus/hack-jnu-3-web)<br>
+4. ⬆️ Pushed 2 commit(s) to [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+5. 🎉 Merged PR [#44](https://github.com/tushar-c23/hack-jnu-3-web/pull/44) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
 <!--RECENT_ACTIVITY:end-->
 
