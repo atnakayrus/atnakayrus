@@ -27,9 +27,9 @@
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
-2. 🎉 Merged PR [#47](https://github.com/tushar-c23/hack-jnu-3-web/pull/47) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
-3. 💪 Opened PR [#47](https://github.com/tushar-c23/hack-jnu-3-web/pull/47) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
-4. ⬆️ Pushed 1 commit(s) to [atnakayrus/hack-jnu-3-web](https://github.com/atnakayrus/hack-jnu-3-web)<br>
-5. ⬆️ Pushed 4 commit(s) to [atnakayrus/hack-jnu-3-web](https://github.com/atnakayrus/hack-jnu-3-web)<br>
+2. 🎉 Merged PR [#48](https://github.com/tushar-c23/hack-jnu-3-web/pull/48) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+3. ⬆️ Pushed 2 commit(s) to [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+4. 🎉 Merged PR [#47](https://github.com/tushar-c23/hack-jnu-3-web/pull/47) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+5. 💪 Opened PR [#47](https://github.com/tushar-c23/hack-jnu-3-web/pull/47) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
 <!--RECENT_ACTIVITY:end-->
 
