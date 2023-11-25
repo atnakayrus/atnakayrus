@@ -26,10 +26,10 @@
 <p><a href="https://www.buymeacoffee.com/atnakayrus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atnakayrus" /></a></p><br><br>
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [atnakayrus/hack-jnu-3-web](https://github.com/atnakayrus/hack-jnu-3-web)<br>
+1. ✌️ Released [First release](https://github.com/atnakayrus/Machine-Learning-COV-X/releases/tag/Release) in [atnakayrus/Machine-Learning-COV-X](https://github.com/atnakayrus/Machine-Learning-COV-X)<br>
 2. ⬆️ Pushed 1 commit(s) to [atnakayrus/Machine-Learning-COV-X](https://github.com/atnakayrus/Machine-Learning-COV-X)<br>
-3. ⬆️ Pushed 2 commit(s) to [atnakayrus/hack-jnu-3-web](https://github.com/atnakayrus/hack-jnu-3-web)<br>
-4. ⬆️ Pushed 2 commit(s) to [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
-5. 🎉 Merged PR [#49](https://github.com/tushar-c23/hack-jnu-3-web/pull/49) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+3. ⬆️ Pushed 1 commit(s) to [atnakayrus/hack-jnu-3-web](https://github.com/atnakayrus/hack-jnu-3-web)<br>
+4. ⬆️ Pushed 1 commit(s) to [atnakayrus/Machine-Learning-COV-X](https://github.com/atnakayrus/Machine-Learning-COV-X)<br>
+5. ⬆️ Pushed 2 commit(s) to [atnakayrus/hack-jnu-3-web](https://github.com/atnakayrus/hack-jnu-3-web)<br>
 <!--RECENT_ACTIVITY:end-->
 
