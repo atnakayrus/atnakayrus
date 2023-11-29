@@ -26,10 +26,10 @@
 <p><a href="https://www.buymeacoffee.com/atnakayrus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atnakayrus" /></a></p><br><br>
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#50](https://github.com/tushar-c23/hack-jnu-3-web/issues/50) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
-2. ✔️ Closed issue [#52](https://github.com/tushar-c23/hack-jnu-3-web/issues/52) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
-3. ⬆️ Pushed 3 commit(s) to [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
-4. 🎉 Merged PR [#54](https://github.com/tushar-c23/hack-jnu-3-web/pull/54) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
-5. 💪 Opened PR [#54](https://github.com/tushar-c23/hack-jnu-3-web/pull/54) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+1. ⬆️ Pushed 1 commit(s) to [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+2. ⬆️ Pushed 2 commit(s) to [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+3. 🎉 Merged PR [#55](https://github.com/tushar-c23/hack-jnu-3-web/pull/55) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+4. 💪 Opened PR [#55](https://github.com/tushar-c23/hack-jnu-3-web/pull/55) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+5. ⬆️ Pushed 1 commit(s) to [atnakayrus/hack-jnu-3-web](https://github.com/atnakayrus/hack-jnu-3-web)<br>
 <!--RECENT_ACTIVITY:end-->
 
