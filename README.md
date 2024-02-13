@@ -27,9 +27,9 @@
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [atnakayrus/altvideos](https://github.com/atnakayrus/altvideos)<br>
-2. 📔 Created new repository [atnakayrus/altvideos](https://github.com/atnakayrus/altvideos)<br>
-3. ⬆️ Pushed 3 commit(s) to [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
-4. 🎉 Merged PR [#57](https://github.com/tushar-c23/hack-jnu-3-web/pull/57) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
-5. ⬆️ Pushed 1 commit(s) to [atnakayrus/hack-jnu-3-web](https://github.com/atnakayrus/hack-jnu-3-web)<br>
+2. ⬆️ Pushed 1 commit(s) to [atnakayrus/altvideos](https://github.com/atnakayrus/altvideos)<br>
+3. 📔 Created new repository [atnakayrus/altvideos](https://github.com/atnakayrus/altvideos)<br>
+4. ⬆️ Pushed 3 commit(s) to [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
+5. 🎉 Merged PR [#57](https://github.com/tushar-c23/hack-jnu-3-web/pull/57) in [tushar-c23/hack-jnu-3-web](https://github.com/tushar-c23/hack-jnu-3-web)<br>
 <!--RECENT_ACTIVITY:end-->
 
