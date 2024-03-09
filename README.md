@@ -26,10 +26,10 @@
 <p><a href="https://www.buymeacoffee.com/atnakayrus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atnakayrus" /></a></p><br><br>
 <h3>My recent activities:</h3>
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [atnakayrus/tach-extensions](https://github.com/atnakayrus/tach-extensions) from [tachiyomiorg/extensions](https://github.com/tachiyomiorg/extensions)<br>
-2. 🔱 Forked [atnakayrus/website](https://github.com/atnakayrus/website) from [tachiyomiorg/website](https://github.com/tachiyomiorg/website)<br>
-3. ⬆️ Pushed 1 commit(s) to [atnakayrus/altvideos](https://github.com/atnakayrus/altvideos)<br>
-4. ⬆️ Pushed 1 commit(s) to [atnakayrus/altvideos](https://github.com/atnakayrus/altvideos)<br>
-5. ⬆️ Pushed 1 commit(s) to [atnakayrus/altvideos](https://github.com/atnakayrus/altvideos)<br>
+1. 💪 Opened PR [#2](https://github.com/amitansu1024/CyBug/pull/2) in [amitansu1024/CyBug](https://github.com/amitansu1024/CyBug)<br>
+2. ⬆️ Pushed 1 commit(s) to [atnakayrus/CyBug](https://github.com/atnakayrus/CyBug)<br>
+3. 🔱 Forked [atnakayrus/CyBug](https://github.com/atnakayrus/CyBug) from [amitansu1024/CyBug](https://github.com/amitansu1024/CyBug)<br>
+4. 🔱 Forked [atnakayrus/tach-extensions](https://github.com/atnakayrus/tach-extensions) from [tachiyomiorg/extensions](https://github.com/tachiyomiorg/extensions)<br>
+5. 🔱 Forked [atnakayrus/website](https://github.com/atnakayrus/website) from [tachiyomiorg/website](https://github.com/tachiyomiorg/website)<br>
 <!--RECENT_ACTIVITY:end-->
 
